@@ -27,7 +27,7 @@ CREATE TABLE departments(
 	dept_name VARCHAR(50) NOT NULL
 );
 
--- Table departments_employees:
+--departments_employees:
 
 
 DROP TABLE IF EXISTS departments_employees;
